@@ -1,0 +1,34 @@
+{  
+    "desserts" : [
+        {
+            "id": "8156485354abec61",
+            "name": "Chocolate Mousse Cake",
+            "price": "20,00",
+            "image": "/images/chocolate-mousse-cake.png"
+        },
+        {
+            "id": "8156485354abec62",
+            "name": "Strawberry Chocolate Cake",
+            "price": "24,00",
+            "image": "/public/images/chocolate-mousse-torte-cake.png"
+        },
+        {
+            "id": "8156485354abec63",
+            "name": "Blueberry Sponge Cake",
+            "price": "29,00",
+            "image": "/public/images/chocolate-mousse-torte-cake.png"
+        },
+        {
+            "id": "8156485354abec64",
+            "name": "Cherry Brandy Gateau",
+            "price": "33,00",
+            "image": "/public/images/chocolate-mousse-torte-cake.png"
+        },
+        {
+            "id": "8156485354abec65",
+            "name": "Angel Food Cake",
+            "price": "25,00",
+            "image": "/public/images/chocolate-mousse-torte-cake.png"
+        }
+    ]
+} 
