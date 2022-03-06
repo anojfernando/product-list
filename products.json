@@ -3,30 +3,30 @@
         "id": "8156485354abec61",
         "name": "Chocolate Mousse Cake",
         "price": "20,00",
-        "image": "/images/chocolate-mousse-cake.png"
+        "image": "/Angel-Food-Cake.jpg"
     },
     {
         "id": "8156485354abec62",
         "name": "Strawberry Chocolate Cake",
         "price": "24,00",
-        "image": "/images/chocolate-mousse-torte-cake.png"
+        "image": "/Strawberry-Chocolate-Cake.jpg"
     },
     {
         "id": "8156485354abec63",
         "name": "Blueberry Sponge Cake",
         "price": "29,00",
-        "image": "/images/chocolate-mousse-torte-cake.png"
+        "image": "/Chocolate-Mousse-Cake.jpg"
     },
     {
         "id": "8156485354abec64",
         "name": "Cherry Brandy Gateau",
         "price": "33,00",
-        "image": "/images/chocolate-mousse-torte-cake.png"
+        "image": "/Blueberry-Sponge-Cake.jpg"
     },
     {
         "id": "8156485354abec65",
         "name": "Angel Food Cake",
         "price": "25,00",
-        "image": "/images/chocolate-mousse-torte-cake.png"
+        "image": "/Angel-Food-Cake.jpg"
     }
 ]
