@@ -3,30 +3,35 @@
         "id": "8156485354abec61",
         "name": "Chocolate Mousse Cake",
         "price": "20,00",
-        "image": "/Chocolate-Mousse-Cake.png"
+        "image": "/Chocolate-Mousse-Cake.png",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
         "id": "8156485354abec62",
         "name": "Strawberry Chocolate Cake",
         "price": "24,00",
-        "image": "/Strawberry-Chocolate-Cake.png"
+        "image": "/Strawberry-Chocolate-Cake.png",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     },
     {
         "id": "8156485354abec63",
         "name": "Blueberry Sponge Cake",
         "price": "29,00",
-        "image": "/Blueberry-Sponge-Cake.png"
+        "image": "/Blueberry-Sponge-Cake.png",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
     },
     {
         "id": "8156485354abec64",
         "name": "Cherry Brandy Gateau",
         "price": "33,00",
-        "image": "/Black-Forest-Cake.png"
+        "image": "/Black-Forest-Cake.png",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
         "id": "8156485354abec65",
         "name": "Angel Food Cake",
         "price": "25,00",
-        "image": "/Angel-Food-Cake.png"
+        "image": "/Angel-Food-Cake.png",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
 ]
